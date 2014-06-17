@@ -1,0 +1,11 @@
+#footer, #header, #options, .item_img, form input {
+	display:none;
+}
+.item_about li:first-child {
+	list-style-type:none;
+	font-weight:bold;
+	font-size:1.2em;
+}
+.item_about li:last-child {
+	display:none;
+}
